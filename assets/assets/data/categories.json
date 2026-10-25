@@ -1,0 +1,137 @@
+[
+ {
+  "id": "plomeria",
+  "name": "Plomería",
+  "icon": "plumbing",
+  "keywords": [
+   "plomero",
+   "fuga",
+   "tinaco",
+   "calentador",
+   "llave",
+   "drenaje"
+  ]
+ },
+ {
+  "id": "carpinteria",
+  "name": "Carpintería",
+  "icon": "carpenter",
+  "keywords": [
+   "carpintero",
+   "madera",
+   "mueble",
+   "puerta",
+   "closet"
+  ],
+  "photo": "assets/images/categories/carpinteria.jpg"
+ },
+ {
+  "id": "herreria",
+  "name": "Herrería",
+  "icon": "hardware",
+  "keywords": [
+   "herrero",
+   "soldadura",
+   "zaguan",
+   "reja",
+   "proteccion"
+  ]
+ },
+ {
+  "id": "electricidad",
+  "name": "Electricidad",
+  "icon": "electrical_services",
+  "keywords": [
+   "electricista",
+   "contacto",
+   "apagador",
+   "centro de carga",
+   "cableado"
+  ]
+ },
+ {
+  "id": "albanileria",
+  "name": "Albañilería",
+  "icon": "foundation",
+  "keywords": [
+   "albanil",
+   "barda",
+   "firme",
+   "aplanado",
+   "remodelacion"
+  ]
+ },
+ {
+  "id": "pintura",
+  "name": "Pintura",
+  "icon": "format_paint",
+  "keywords": [
+   "pintor",
+   "fachada",
+   "impermeabilizante",
+   "interiores"
+  ]
+ },
+ {
+  "id": "limpieza",
+  "name": "Limpieza",
+  "icon": "cleaning_services",
+  "keywords": [
+   "limpieza",
+   "hogar",
+   "departamento",
+   "profunda"
+  ]
+ },
+ {
+  "id": "mecanica",
+  "name": "Mecánica",
+  "icon": "car_repair",
+  "keywords": [
+   "mecanico",
+   "auto",
+   "coche",
+   "frenos",
+   "aceite",
+   "taller"
+  ],
+  "photo": "assets/images/categories/mecanica.jpg"
+ },
+ {
+  "id": "lavanderia",
+  "name": "Lavandería",
+  "icon": "local_laundry_service",
+  "keywords": [
+   "lavanderia",
+   "tintoreria",
+   "ropa",
+   "planchado"
+  ],
+  "photo": "assets/images/categories/lavanderia.jpg"
+ },
+ {
+  "id": "peluqueria",
+  "name": "Peluquería y belleza",
+  "icon": "content_cut",
+  "keywords": [
+   "peluqueria",
+   "estetica",
+   "corte",
+   "cabello",
+   "barberia"
+  ],
+  "photo": "assets/images/categories/peluqueria.jpg"
+ },
+ {
+  "id": "spa",
+  "name": "Spa y bienestar",
+  "icon": "spa",
+  "keywords": [
+   "spa",
+   "masaje",
+   "facial",
+   "relajacion"
+  ],
+  "photo": "assets/images/categories/spa.jpg"
+ }
+]

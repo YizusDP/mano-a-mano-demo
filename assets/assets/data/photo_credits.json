@@ -1,0 +1,52 @@
+[
+ {
+  "categoryId": "carpinteria",
+  "asset": "assets/images/categories/carpinteria.jpg",
+  "alt": "Fotografía de referencia: lijado y reparación de piezas de madera en un taller.",
+  "author": "Tima Miroshnichenko",
+  "source": "https://www.pexels.com/photo/a-person-doing-carpentry-6790079/",
+  "license": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "changes": "Tamaño optimizado por Pexels; encuadre visual adaptable."
+ },
+ {
+  "categoryId": "spa",
+  "asset": "assets/images/categories/spa.jpg",
+  "alt": "Fotografía de referencia: sesión de masaje de relajación en un spa.",
+  "author": "Ivan S",
+  "source": "https://www.pexels.com/photo/a-woman-doing-body-massage-5659005/",
+  "license": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "changes": "Tamaño optimizado por Pexels; encuadre visual adaptable."
+ },
+ {
+  "categoryId": "lavanderia",
+  "asset": "assets/images/categories/lavanderia.jpg",
+  "alt": "Fotografía de referencia: lavadoras y secadoras en una lavandería.",
+  "author": "Ekaterina Belinskaya",
+  "source": "https://www.pexels.com/photo/photo-of-laundromat-machines-4700382/",
+  "license": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "changes": "Tamaño optimizado por Pexels; encuadre visual adaptable."
+ },
+ {
+  "categoryId": "mecanica",
+  "asset": "assets/images/categories/mecanica.jpg",
+  "alt": "Fotografía de referencia: reparación y mantenimiento de un motor en un taller mecánico.",
+  "author": "Artem Podrez",
+  "source": "https://www.pexels.com/photo/close-up-of-a-mechanic-fixing-an-engine-8985519/",
+  "license": "Pexels License",
+  "licenseUrl": "https://www.pexels.com/license/",
+  "changes": "Tamaño optimizado por Pexels; encuadre visual adaptable."
+ },
+ {
+  "categoryId": "peluqueria",
+  "asset": "assets/images/categories/peluqueria.jpg",
+  "alt": "Fotografía de referencia: corte de cabello con tijera.",
+  "author": "Hair Spies",
+  "source": "https://commons.wikimedia.org/wiki/File:Cutting_hair_with_scissors_(51214105840).jpg",
+  "license": "CC BY 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+  "changes": "Archivo sin modificaciones; encuadre visual adaptable"
+ }
+]

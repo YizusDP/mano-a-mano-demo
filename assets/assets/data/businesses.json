@@ -1,0 +1,1168 @@
+[
+ {
+  "id": "real-07889-gresyam",
+  "name": "Carpintería Gresyam",
+  "type": "business",
+  "categoryId": "carpinteria",
+  "description": "Fabricación de productos de madera para la construcción.",
+  "address": "Calle Oriente 91 No. 2518, Col. Emiliano Zapata, Gustavo A. Madero, Ciudad de México, CP 07889",
+  "colony": "Emiliano Zapata",
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07889",
+  "location": [
+   19.46230195,
+   -99.11815607
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": null,
+  "serviceRadiusKm": null,
+  "openingHours": null,
+  "services": [
+   {
+    "id": "real-07889-gresyam-puerta",
+    "name": "Reparar o ajustar puerta de madera",
+    "price": 700,
+    "priceMin": 400,
+    "priceMax": 1200,
+    "unit": "por puerta",
+    "durationMinutes": 90,
+    "mode": "atHome",
+    "includes": "Diagnóstico y ajuste menor de la hoja o del cierre. Mano de obra; materiales, herrajes y cambio de puerta se cotizan aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-gresyam-bisagras",
+    "name": "Ajustar bisagras y cierre",
+    "price": 450,
+    "priceMin": 350,
+    "priceMax": 700,
+    "unit": "por puerta",
+    "durationMinutes": 60,
+    "mode": "atHome",
+    "includes": "Alineación y apriete de bisagras de una puerta. No incluye bisagras nuevas, cerradura ni reparación estructural.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-gresyam-mueble",
+    "name": "Reparación básica de mueble",
+    "price": 900,
+    "priceMin": 500,
+    "priceMax": 2500,
+    "unit": "por mueble",
+    "durationMinutes": 120,
+    "mode": "inShop",
+    "includes": "Corrección de una unión o cajón suelto y ajuste básico. Materiales, acabado completo y restauración extensa aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": "demo-gresyam",
+  "status": "published",
+  "isSample": false,
+  "isRealListing": true,
+  "listingNote": "Negocio real incluido en la alfa con su permiso. Precios de referencia, no confirmados por el negocio."
+ },
+ {
+  "id": "real-07889-abel",
+  "name": "Taller Mecánico Abel",
+  "type": "business",
+  "categoryId": "mecanica",
+  "description": "Reparación mecánica en general de automóviles y camiones.",
+  "address": "Calle Oriente 87 No. 3659, Col. Emiliano Zapata, Gustavo A. Madero, Ciudad de México, CP 07889",
+  "colony": "Emiliano Zapata",
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07889",
+  "location": [
+   19.4608537,
+   -99.12034686
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": null,
+  "serviceRadiusKm": null,
+  "openingHours": null,
+  "services": [
+   {
+    "id": "real-07889-abel-diagnostico",
+    "name": "Diagnóstico con escáner",
+    "price": 500,
+    "priceMin": 400,
+    "priceMax": 800,
+    "unit": "por vehículo",
+    "durationMinutes": 60,
+    "mode": "inShop",
+    "includes": "Lectura de códigos y revisión inicial. Reparaciones, pruebas especializadas y refacciones se cotizan aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-abel-aceite",
+    "name": "Cambio de aceite y filtro",
+    "price": 850,
+    "priceMin": 600,
+    "priceMax": 1400,
+    "unit": "por vehículo",
+    "durationMinutes": 60,
+    "mode": "inShop",
+    "includes": "Referencia para auto compacto: mano de obra, hasta 4 litros de aceite multigrado y filtro convencional. Sintético, filtros especiales y litros extra aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-abel-balatas",
+    "name": "Cambio de balatas · mano de obra",
+    "price": 600,
+    "priceMin": 400,
+    "priceMax": 1000,
+    "unit": "por eje",
+    "durationMinutes": 90,
+    "mode": "inShop",
+    "includes": "Retiro e instalación de balatas en un eje. No incluye balatas, discos, rectificado ni reparaciones adicionales.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-abel-preventivo",
+    "name": "Servicio preventivo básico",
+    "price": 2000,
+    "priceMin": 1500,
+    "priceMax": 3000,
+    "unit": "por vehículo",
+    "durationMinutes": 90,
+    "mode": "inShop",
+    "includes": "Referencia: aceite multigrado y filtro convencional, revisión de niveles y limpieza/ajuste de frenos. Refacciones y consumibles extra aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": "demo-abel",
+  "status": "published",
+  "isSample": false,
+  "isRealListing": true,
+  "listingNote": "Negocio real incluido en la alfa con su permiso. Precios de referencia, no confirmados por el negocio."
+ },
+ {
+  "id": "real-07889-burbuja",
+  "name": "Lavandería La Burbuja Azul",
+  "type": "business",
+  "categoryId": "lavanderia",
+  "description": "Tintorerías y lavanderías.",
+  "address": "Oriente 91 No. 2436, Ciudad de México, CP 07889",
+  "colony": "Emiliano Zapata",
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07889",
+  "location": [
+   19.462501,
+   -99.118599
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": null,
+  "serviceRadiusKm": null,
+  "openingHours": null,
+  "services": [
+   {
+    "id": "real-07889-burbuja-lavado-kg",
+    "name": "Lavado, secado y doblado",
+    "price": 40,
+    "priceMin": 35,
+    "priceMax": 50,
+    "unit": "por kg",
+    "durationMinutes": 30,
+    "mode": "inShop",
+    "includes": "Ropa de uso diario; estimación por kilogramo. Prendas delicadas, manchas especiales, recolección y mínimos de carga aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-burbuja-edredon",
+    "name": "Lavado de edredón",
+    "price": 180,
+    "priceMin": 140,
+    "priceMax": 250,
+    "unit": "por pieza",
+    "durationMinutes": 30,
+    "mode": "inShop",
+    "includes": "Lavado y secado de un edredón sintético. Plumas, tamaño especial y desmanchado pueden cambiar el costo.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-burbuja-planchado",
+    "name": "Planchado de prenda sencilla",
+    "price": 25,
+    "priceMin": 20,
+    "priceMax": 35,
+    "unit": "por pieza",
+    "durationMinutes": 30,
+    "mode": "inShop",
+    "includes": "Una camisa, pantalón o blusa sencilla. No incluye lavado; prendas de fiesta y telas delicadas aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-burbuja-docena",
+    "name": "Planchado por docena",
+    "price": 250,
+    "priceMin": 200,
+    "priceMax": 320,
+    "unit": "por 12 piezas",
+    "durationMinutes": 30,
+    "mode": "inShop",
+    "includes": "Doce prendas sencillas de uso diario. No incluye lavado ni prendas especiales. Entrega a acordar.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": "demo-burbuja",
+  "status": "published",
+  "isSample": false,
+  "isRealListing": true,
+  "listingNote": "Negocio real incluido en la alfa con su permiso. Precios de referencia, no confirmados por el negocio."
+ },
+ {
+  "id": "real-07889-karina",
+  "name": "Estetican D Karina",
+  "type": "business",
+  "categoryId": "peluqueria",
+  "description": "Salón de belleza y peluquería.",
+  "address": "Calle Oriente 91 No. 2713, Col. Emiliano Zapata, Gustavo A. Madero, Ciudad de México, CP 07889",
+  "colony": "Emiliano Zapata",
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07889",
+  "location": [
+   19.46182243,
+   -99.11684412
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": null,
+  "serviceRadiusKm": null,
+  "openingHours": null,
+  "services": [
+   {
+    "id": "real-07889-karina-corte-hombre",
+    "name": "Corte de cabello para hombre",
+    "price": 250,
+    "priceMin": 150,
+    "priceMax": 400,
+    "unit": "por persona",
+    "durationMinutes": 30,
+    "mode": "inShop",
+    "includes": "Corte a tijera o máquina y acabado sencillo. No incluye barba, tinte ni tratamientos.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-karina-corte-mujer",
+    "name": "Corte de cabello para mujer",
+    "price": 300,
+    "priceMin": 200,
+    "priceMax": 600,
+    "unit": "por persona",
+    "durationMinutes": 60,
+    "mode": "inShop",
+    "includes": "Corte y secado sencillo. No incluye peinado de evento, coloración ni tratamiento.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-karina-corte-infantil",
+    "name": "Corte de cabello infantil",
+    "price": 200,
+    "priceMin": 100,
+    "priceMax": 300,
+    "unit": "por persona",
+    "durationMinutes": 30,
+    "mode": "inShop",
+    "includes": "Corte sencillo para niño o niña. Lavado especial y peinado de evento se cotizan por separado.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-karina-peinado",
+    "name": "Peinado sencillo",
+    "price": 350,
+    "priceMin": 250,
+    "priceMax": 600,
+    "unit": "por persona",
+    "durationMinutes": 60,
+    "mode": "inShop",
+    "includes": "Peinado o secado con forma para cabello de largo medio. Accesorios, extensiones y recogidos elaborados aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": "demo-karina",
+  "status": "published",
+  "isSample": false,
+  "isRealListing": true,
+  "listingNote": "Negocio real incluido en la alfa con su permiso. Precios de referencia, no confirmados por el negocio."
+ },
+ {
+  "id": "real-07889-inhala",
+  "name": "Inhala Spa",
+  "type": "business",
+  "categoryId": "spa",
+  "description": "Salón de belleza y peluquería.",
+  "address": "Calle Norte 54 No. 3725, Col. Emiliano Zapata, Gustavo A. Madero, Ciudad de México, CP 07889",
+  "colony": "Emiliano Zapata",
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07889",
+  "location": [
+   19.46113781,
+   -99.11719488
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": null,
+  "serviceRadiusKm": null,
+  "openingHours": null,
+  "services": [
+   {
+    "id": "real-07889-inhala-masaje-relajante",
+    "name": "Masaje relajante",
+    "price": 600,
+    "priceMin": 500,
+    "priceMax": 850,
+    "unit": "por sesión",
+    "durationMinutes": 60,
+    "mode": "inShop",
+    "includes": "Sesión de bienestar de 60 minutos. No incluye tratamientos médicos ni aparatología.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-inhala-facial",
+    "name": "Limpieza facial e hidratación",
+    "price": 600,
+    "priceMin": 450,
+    "priceMax": 900,
+    "unit": "por sesión",
+    "durationMinutes": 60,
+    "mode": "inShop",
+    "includes": "Limpieza cosmética superficial, mascarilla e hidratación. No incluye procedimientos invasivos.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "real-07889-inhala-manos",
+    "name": "Exfoliación e hidratación de manos",
+    "price": 300,
+    "priceMin": 200,
+    "priceMax": 450,
+    "unit": "por sesión",
+    "durationMinutes": 30,
+    "mode": "inShop",
+    "includes": "Exfoliación cosmética e hidratación de manos. No incluye manicure, gel ni tratamiento médico.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": "demo-inhala",
+  "status": "published",
+  "isSample": false,
+  "isRealListing": true,
+  "listingNote": "Negocio real incluido en la alfa con su permiso. Precios de referencia, no confirmados por el negocio."
+ },
+ {
+  "id": "fict-plomeria-ramon",
+  "name": "Ramón Ortiz · Plomería",
+  "type": "independent",
+  "categoryId": "plomeria",
+  "description": "Detección de fugas, tinacos, bombas y calentadores de paso. Trabajo limpio y con garantía de 30 días.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07889",
+  "location": [
+   19.46538,
+   -99.12413
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 15,
+  "serviceRadiusKm": 8,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "opens": "09:00",
+   "closes": "18:00"
+  },
+  "services": [
+   {
+    "id": "fict-plomeria-ramon-s1",
+    "name": "Reparar fuga de agua visible",
+    "price": 750,
+    "priceMin": 400,
+    "priceMax": 1200,
+    "unit": "por punto",
+    "durationMinutes": 90,
+    "mode": "atHome",
+    "includes": "Revisión y reparación básica de una unión accesible. Materiales, apertura de muros y fugas ocultas aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-plomeria-ramon-s2",
+    "name": "Cambiar llave o mezcladora",
+    "price": 800,
+    "priceMin": 600,
+    "priceMax": 1500,
+    "unit": "por pieza",
+    "durationMinutes": 60,
+    "mode": "atHome",
+    "includes": "Mano de obra para retirar e instalar una llave accesible. Mezcladora, mangueras y adaptaciones se cotizan aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-plomeria-ramon-s3",
+    "name": "Instalar o revisar calentador",
+    "price": 900,
+    "priceMin": 600,
+    "priceMax": 1500,
+    "unit": "por equipo",
+    "durationMinutes": 120,
+    "mode": "atHome",
+    "includes": "Mano de obra para conectar o revisar un calentador de paso o depósito. Equipo, conexiones y material aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": "demo-ramon",
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-plomeria-luis",
+  "name": "Luis Hernández",
+  "type": "independent",
+  "categoryId": "plomeria",
+  "description": "Destapes, cambio de llaves y conexiones de lavadora.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07890",
+  "location": [
+   19.4801,
+   -99.1097
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 7,
+  "serviceRadiusKm": 6,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "opens": "09:00",
+   "closes": "18:00"
+  },
+  "services": [
+   {
+    "id": "fict-plomeria-luis-s1",
+    "name": "Reparar fuga de agua visible",
+    "price": 750,
+    "priceMin": 400,
+    "priceMax": 1200,
+    "unit": "por punto",
+    "durationMinutes": 90,
+    "mode": "atHome",
+    "includes": "Revisión y reparación básica de una unión accesible. Materiales, apertura de muros y fugas ocultas aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-plomeria-luis-s2",
+    "name": "Cambiar llave o mezcladora",
+    "price": 800,
+    "priceMin": 600,
+    "priceMax": 1500,
+    "unit": "por pieza",
+    "durationMinutes": 60,
+    "mode": "atHome",
+    "includes": "Mano de obra para retirar e instalar una llave accesible. Mezcladora, mangueras y adaptaciones se cotizan aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-plomeria-express",
+  "name": "Plomería Exprés del Norte",
+  "type": "business",
+  "categoryId": "plomeria",
+  "description": "Atención el mismo día para fugas y destapes en la zona norte.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07300",
+  "location": [
+   19.5039,
+   -99.1325
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 3,
+  "serviceRadiusKm": 10,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "opens": "08:00",
+   "closes": "20:00"
+  },
+  "services": [
+   {
+    "id": "fict-plomeria-express-s1",
+    "name": "Reparar fuga de agua visible",
+    "price": 750,
+    "priceMin": 400,
+    "priceMax": 1200,
+    "unit": "por punto",
+    "durationMinutes": 90,
+    "mode": "atHome",
+    "includes": "Revisión y reparación básica de una unión accesible. Materiales, apertura de muros y fugas ocultas aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-plomeria-express-s2",
+    "name": "Cambiar llave o mezcladora",
+    "price": 800,
+    "priceMin": 600,
+    "priceMax": 1500,
+    "unit": "por pieza",
+    "durationMinutes": 60,
+    "mode": "atHome",
+    "includes": "Mano de obra para retirar e instalar una llave accesible. Mezcladora, mangueras y adaptaciones se cotizan aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-plomeria-beto",
+  "name": "Alberto Castillo",
+  "type": "independent",
+  "categoryId": "plomeria",
+  "description": "Plomería general y gas. Servicio en fin de semana.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07900",
+  "location": [
+   19.448,
+   -99.0582
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 9,
+  "serviceRadiusKm": 12,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "opens": "08:00",
+   "closes": "20:00"
+  },
+  "services": [
+   {
+    "id": "fict-plomeria-beto-s1",
+    "name": "Reparar fuga de agua visible",
+    "price": 750,
+    "priceMin": 400,
+    "priceMax": 1200,
+    "unit": "por punto",
+    "durationMinutes": 90,
+    "mode": "atHome",
+    "includes": "Revisión y reparación básica de una unión accesible. Materiales, apertura de muros y fugas ocultas aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-plomeria-beto-s2",
+    "name": "Cambiar llave o mezcladora",
+    "price": 800,
+    "priceMin": 600,
+    "priceMax": 1500,
+    "unit": "por pieza",
+    "durationMinutes": 60,
+    "mode": "atHome",
+    "includes": "Mano de obra para retirar e instalar una llave accesible. Mezcladora, mangueras y adaptaciones se cotizan aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-plomeria-beto-s3",
+    "name": "Instalar o revisar calentador",
+    "price": 900,
+    "priceMin": 600,
+    "priceMax": 1500,
+    "unit": "por equipo",
+    "durationMinutes": 120,
+    "mode": "atHome",
+    "includes": "Mano de obra para conectar o revisar un calentador de paso o depósito. Equipo, conexiones y material aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-carpinteria-ramirez",
+  "name": "Carpintería Ramírez",
+  "type": "business",
+  "categoryId": "carpinteria",
+  "description": "Clósets, cocinas integrales y reparación de puertas. Trabajamos MDF y pino.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07870",
+  "location": [
+   19.47025,
+   -99.13295
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 18,
+  "serviceRadiusKm": 10,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "opens": "09:00",
+   "closes": "18:00"
+  },
+  "services": [
+   {
+    "id": "fict-carpinteria-ramirez-s1",
+    "name": "Reparar o ajustar puerta de madera",
+    "price": 700,
+    "priceMin": 400,
+    "priceMax": 1200,
+    "unit": "por puerta",
+    "durationMinutes": 90,
+    "mode": "atHome",
+    "includes": "Diagnóstico y ajuste menor. Herrajes y cambio de puerta aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-carpinteria-ramirez-s2",
+    "name": "Clóset a la medida",
+    "price": 9500,
+    "priceMin": 6000,
+    "priceMax": 18000,
+    "unit": "por clóset",
+    "durationMinutes": 480,
+    "mode": "atHome",
+    "includes": "Diseño, fabricación e instalación en MDF. El precio depende de medidas y acabados.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": "demo-ramirez",
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-carpinteria-marisol",
+  "name": "Marisol Peña",
+  "type": "independent",
+  "categoryId": "carpinteria",
+  "description": "Muebles a la medida y restauración de piezas antiguas.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07800",
+  "location": [
+   19.4506,
+   -99.1129
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 4,
+  "serviceRadiusKm": 8,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "opens": "09:00",
+   "closes": "18:00"
+  },
+  "services": [
+   {
+    "id": "fict-carpinteria-marisol-s1",
+    "name": "Restauración de mueble",
+    "price": 1800,
+    "priceMin": 900,
+    "priceMax": 4000,
+    "unit": "por mueble",
+    "durationMinutes": 240,
+    "mode": "inShop",
+    "includes": "Lijado, reparación de uniones y barniz. Tapicería aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-herreria-vega",
+  "name": "Herrería Vega",
+  "type": "business",
+  "categoryId": "herreria",
+  "description": "Taller familiar. Zaguanes, protecciones y escaleras de caracol.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07880",
+  "location": [
+   19.4627,
+   -99.1101
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 22,
+  "serviceRadiusKm": 20,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "opens": "09:00",
+   "closes": "18:00"
+  },
+  "services": [
+   {
+    "id": "fict-herreria-vega-s1",
+    "name": "Protección para ventana",
+    "price": 1800,
+    "priceMin": 1200,
+    "priceMax": 3500,
+    "unit": "por ventana",
+    "durationMinutes": 180,
+    "mode": "atHome",
+    "includes": "Fabricación e instalación de protección tubular estándar con pintura anticorrosiva.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-herreria-vega-s2",
+    "name": "Soldadura a domicilio",
+    "price": 600,
+    "priceMin": 400,
+    "priceMax": 1200,
+    "unit": "por visita",
+    "durationMinutes": 90,
+    "mode": "atHome",
+    "includes": "Reparación de rejas, zaguanes o bisagras. Material aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-herreria-pedro",
+  "name": "Pedro Juárez",
+  "type": "independent",
+  "categoryId": "herreria",
+  "description": "Soldadura a domicilio y reparación de rejas.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07840",
+  "location": [
+   19.4674,
+   -99.1204
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 6,
+  "serviceRadiusKm": 8,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "opens": "09:00",
+   "closes": "18:00"
+  },
+  "services": [
+   {
+    "id": "fict-herreria-pedro-s1",
+    "name": "Soldadura a domicilio",
+    "price": 550,
+    "priceMin": 400,
+    "priceMax": 1000,
+    "unit": "por visita",
+    "durationMinutes": 90,
+    "mode": "atHome",
+    "includes": "Reparación de rejas, zaguanes o bisagras. Material aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-electricidad-lupita",
+  "name": "Guadalupe Morales",
+  "type": "independent",
+  "categoryId": "electricidad",
+  "description": "Instalaciones residenciales, centros de carga y tierra física.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07890",
+  "location": [
+   19.4821,
+   -99.1067
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 11,
+  "serviceRadiusKm": 10,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "opens": "09:00",
+   "closes": "18:00"
+  },
+  "services": [
+   {
+    "id": "fict-electricidad-lupita-s1",
+    "name": "Revisión de instalación eléctrica",
+    "price": 500,
+    "priceMin": 350,
+    "priceMax": 900,
+    "unit": "por visita",
+    "durationMinutes": 60,
+    "mode": "atHome",
+    "includes": "Diagnóstico de fallas y revisión de centro de carga.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-electricidad-lupita-s2",
+    "name": "Cambio de contacto o apagador",
+    "price": 250,
+    "priceMin": 150,
+    "priceMax": 400,
+    "unit": "por pieza",
+    "durationMinutes": 30,
+    "mode": "atHome",
+    "includes": "Mano de obra por pieza. El contacto o apagador va aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-electricidad-ivan",
+  "name": "Iván Cruz",
+  "type": "independent",
+  "categoryId": "electricidad",
+  "description": "Contactos, apagadores y lámparas.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07500",
+  "location": [
+   19.4753,
+   -99.0671
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 2,
+  "serviceRadiusKm": 15,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+   ],
+   "opens": "08:00",
+   "closes": "20:00"
+  },
+  "services": [
+   {
+    "id": "fict-electricidad-ivan-s1",
+    "name": "Instalar lámpara",
+    "price": 300,
+    "priceMin": 200,
+    "priceMax": 500,
+    "unit": "por lámpara",
+    "durationMinutes": 45,
+    "mode": "atHome",
+    "includes": "Instalación de lámpara de techo o pared. Lámpara aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-albanileria-reyes",
+  "name": "Jesús Reyes · Albañilería",
+  "type": "independent",
+  "categoryId": "albanileria",
+  "description": "Bardas, firmes, aplanados y remodelación de baños.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07860",
+  "location": [
+   19.465,
+   -99.11505
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 20,
+  "serviceRadiusKm": 15,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "opens": "09:00",
+   "closes": "18:00"
+  },
+  "services": [
+   {
+    "id": "fict-albanileria-reyes-s1",
+    "name": "Aplanado de muro",
+    "price": 180,
+    "priceMin": 140,
+    "priceMax": 260,
+    "unit": "por m²",
+    "durationMinutes": 480,
+    "mode": "atHome",
+    "includes": "Mano de obra de aplanado con mezcla. Material aparte; mínimo 10 m².",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-albanileria-reyes-s2",
+    "name": "Firme de concreto",
+    "price": 250,
+    "priceMin": 200,
+    "priceMax": 350,
+    "unit": "por m²",
+    "durationMinutes": 480,
+    "mode": "atHome",
+    "includes": "Mano de obra para firme de 8 cm. Material aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-pintura-fer",
+  "name": "Fernanda Ruiz",
+  "type": "independent",
+  "categoryId": "pintura",
+  "description": "Pintura de interiores y fachadas, impermeabilización.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07899",
+  "location": [
+   19.4527,
+   -99.1048
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 5,
+  "serviceRadiusKm": 8,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "opens": "09:00",
+   "closes": "18:00"
+  },
+  "services": [
+   {
+    "id": "fict-pintura-fer-s1",
+    "name": "Pintura de interiores",
+    "price": 60,
+    "priceMin": 45,
+    "priceMax": 90,
+    "unit": "por m²",
+    "durationMinutes": 480,
+    "mode": "atHome",
+    "includes": "Dos manos de pintura vinílica. Pintura y resanes mayores aparte.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-pintura-fer-s2",
+    "name": "Impermeabilización de azotea",
+    "price": 95,
+    "priceMin": 70,
+    "priceMax": 140,
+    "unit": "por m²",
+    "durationMinutes": 480,
+    "mode": "atHome",
+    "includes": "Limpieza, sellado de grietas y aplicación de impermeabilizante acrílico. Material aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ },
+ {
+  "id": "fict-limpieza-rosa",
+  "name": "Rosa Martínez · Limpieza del hogar",
+  "type": "independent",
+  "categoryId": "limpieza",
+  "description": "Limpieza general y profunda de casas y departamentos.",
+  "address": null,
+  "colony": null,
+  "municipalityId": "005",
+  "municipalityName": "Gustavo A. Madero",
+  "postalCode": "07889",
+  "location": [
+   19.45838,
+   -99.11313
+  ],
+  "phone": null,
+  "email": null,
+  "yearsExperience": 8,
+  "serviceRadiusKm": 6,
+  "openingHours": {
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "opens": "09:00",
+   "closes": "18:00"
+  },
+  "services": [
+   {
+    "id": "fict-limpieza-rosa-s1",
+    "name": "Limpieza de hogar · 4 horas",
+    "price": 700,
+    "priceMin": 590,
+    "priceMax": 1000,
+    "unit": "por visita",
+    "durationMinutes": 240,
+    "mode": "atHome",
+    "includes": "Una persona durante cuatro horas para limpieza general. El cliente proporciona productos y herramientas; prioridades a acordar.",
+    "priceIsEstimate": true
+   },
+   {
+    "id": "fict-limpieza-rosa-s2",
+    "name": "Limpieza profunda de departamento",
+    "price": 1100,
+    "priceMin": 800,
+    "priceMax": 1500,
+    "unit": "por visita",
+    "durationMinutes": 360,
+    "mode": "atHome",
+    "includes": "Una persona hasta seis horas para baño, cocina y áreas acordadas de un departamento pequeño. Insumos especiales y limpieza de obra aparte.",
+    "priceIsEstimate": true
+   }
+  ],
+  "ownerAccountId": null,
+  "status": "published",
+  "isSample": true,
+  "isRealListing": false,
+  "listingNote": "Perfil de ejemplo para la alfa. La persona y los datos son ficticios."
+ }
+]

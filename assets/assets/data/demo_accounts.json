@@ -1,0 +1,74 @@
+[
+ {
+  "id": "demo-cliente",
+  "role": "client",
+  "name": "Carlos · Cliente demo",
+  "email": "cliente@manoamano.demo",
+  "postalCode": "07889",
+  "businessId": null
+ },
+ {
+  "id": "demo-ramon",
+  "role": "independent",
+  "name": "Ramón Ortiz · Demo",
+  "email": "ramon@manoamano.demo",
+  "postalCode": "07889",
+  "businessId": "fict-plomeria-ramon"
+ },
+ {
+  "id": "demo-ramirez",
+  "role": "business",
+  "name": "Carpintería Ramírez · Demo",
+  "email": "ramirez@manoamano.demo",
+  "postalCode": "07870",
+  "businessId": "fict-carpinteria-ramirez"
+ },
+ {
+  "id": "demo-gresyam",
+  "role": "business",
+  "name": "Carpintería Gresyam · Demo",
+  "email": "gresyam@manoamano.demo",
+  "postalCode": "07889",
+  "businessId": "real-07889-gresyam"
+ },
+ {
+  "id": "demo-abel",
+  "role": "business",
+  "name": "Taller Mecánico Abel · Demo",
+  "email": "abel@manoamano.demo",
+  "postalCode": "07889",
+  "businessId": "real-07889-abel"
+ },
+ {
+  "id": "demo-burbuja",
+  "role": "business",
+  "name": "Lavandería La Burbuja Azul · Demo",
+  "email": "burbuja@manoamano.demo",
+  "postalCode": "07889",
+  "businessId": "real-07889-burbuja"
+ },
+ {
+  "id": "demo-karina",
+  "role": "business",
+  "name": "Estetican D Karina · Demo",
+  "email": "karina@manoamano.demo",
+  "postalCode": "07889",
+  "businessId": "real-07889-karina"
+ },
+ {
+  "id": "demo-inhala",
+  "role": "business",
+  "name": "Inhala Spa · Demo",
+  "email": "inhala@manoamano.demo",
+  "postalCode": "07889",
+  "businessId": "real-07889-inhala"
+ },
+ {
+  "id": "demo-admin",
+  "role": "admin",
+  "name": "Administración · Demo",
+  "email": "admin@manoamano.demo",
+  "postalCode": null,
+  "businessId": null
+ }
+]

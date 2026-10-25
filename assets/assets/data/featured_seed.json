@@ -1,0 +1,27 @@
+[
+ {
+  "businessId": "fict-plomeria-ramon",
+  "plan": "monthly",
+  "startedDaysAgo": 5
+ },
+ {
+  "businessId": "fict-plomeria-beto",
+  "plan": "monthly",
+  "startedDaysAgo": 12
+ },
+ {
+  "businessId": "fict-carpinteria-ramirez",
+  "plan": "monthly",
+  "startedDaysAgo": 2
+ },
+ {
+  "businessId": "fict-herreria-vega",
+  "plan": "monthly",
+  "startedDaysAgo": 20
+ },
+ {
+  "businessId": "fict-albanileria-reyes",
+  "plan": "monthly",
+  "startedDaysAgo": 8
+ }
+]
