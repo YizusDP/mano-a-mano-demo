@@ -807,7 +807,7 @@
     "promoPrice": 350
    }
   ],
-  "ownerAccountId": null,
+  "ownerAccountId": "demo-vega",
   "status": "published",
   "isSample": true,
   "isRealListing": false,
@@ -1021,8 +1021,7 @@
     "durationMinutes": 480,
     "mode": "atHome",
     "includes": "Mano de obra de aplanado con mezcla. Material aparte; mínimo 10 m².",
-    "priceIsEstimate": true,
-    "promoPrice": 130
+    "priceIsEstimate": true
    },
    {
     "id": "fict-albanileria-reyes-s2",
@@ -1148,8 +1147,7 @@
     "durationMinutes": 240,
     "mode": "atHome",
     "includes": "Una persona durante cuatro horas para limpieza general. El cliente proporciona productos y herramientas; prioridades a acordar.",
-    "priceIsEstimate": true,
-    "promoPrice": 550
+    "priceIsEstimate": true
    },
    {
     "id": "fict-limpieza-rosa-s2",

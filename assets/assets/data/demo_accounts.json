@@ -8,6 +8,22 @@
   "businessId": null
  },
  {
+  "id": "demo-alejandro",
+  "role": "client",
+  "name": "Alejandro · Cliente demo",
+  "email": "alejandro@manoamano.demo",
+  "postalCode": "07889",
+  "businessId": null
+ },
+ {
+  "id": "demo-miriam",
+  "role": "client",
+  "name": "Miriam · Cliente demo",
+  "email": "miriam@manoamano.demo",
+  "postalCode": "07889",
+  "businessId": null
+ },
+ {
   "id": "demo-ramon",
   "role": "independent",
   "name": "Ramón Ortiz · Demo",
@@ -22,6 +38,14 @@
   "email": "ramirez@manoamano.demo",
   "postalCode": "07870",
   "businessId": "fict-carpinteria-ramirez"
+ },
+ {
+  "id": "demo-vega",
+  "role": "business",
+  "name": "Herrería Vega · Demo",
+  "email": "vega@manoamano.demo",
+  "postalCode": "07880",
+  "businessId": "fict-herreria-vega"
  },
  {
   "id": "demo-gresyam",
@@ -66,8 +90,24 @@
  {
   "id": "demo-admin",
   "role": "admin",
-  "name": "Administración · Demo",
+  "name": "Carlos · Administración demo",
   "email": "admin@manoamano.demo",
+  "postalCode": null,
+  "businessId": null
+ },
+ {
+  "id": "demo-admin-alejandro",
+  "role": "admin",
+  "name": "Alejandro · Administración demo",
+  "email": "admin.alejandro@manoamano.demo",
+  "postalCode": null,
+  "businessId": null
+ },
+ {
+  "id": "demo-admin-miriam",
+  "role": "admin",
+  "name": "Miriam · Administración demo",
+  "email": "admin.miriam@manoamano.demo",
   "postalCode": null,
   "businessId": null
  }
