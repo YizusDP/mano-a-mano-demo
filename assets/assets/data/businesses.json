@@ -397,7 +397,8 @@
     "durationMinutes": 90,
     "mode": "atHome",
     "includes": "Revisión y reparación básica de una unión accesible. Materiales, apertura de muros y fugas ocultas aparte.",
-    "priceIsEstimate": true
+    "priceIsEstimate": true,
+    "promoPrice": 350
    },
    {
     "id": "fict-plomeria-ramon-s2",
@@ -675,7 +676,8 @@
     "durationMinutes": 90,
     "mode": "atHome",
     "includes": "Diagnóstico y ajuste menor. Herrajes y cambio de puerta aparte.",
-    "priceIsEstimate": true
+    "priceIsEstimate": true,
+    "promoPrice": 350
    },
    {
     "id": "fict-carpinteria-ramirez-s2",
@@ -801,7 +803,8 @@
     "durationMinutes": 90,
     "mode": "atHome",
     "includes": "Reparación de rejas, zaguanes o bisagras. Material aparte.",
-    "priceIsEstimate": true
+    "priceIsEstimate": true,
+    "promoPrice": 350
    }
   ],
   "ownerAccountId": null,
@@ -1018,7 +1021,8 @@
     "durationMinutes": 480,
     "mode": "atHome",
     "includes": "Mano de obra de aplanado con mezcla. Material aparte; mínimo 10 m².",
-    "priceIsEstimate": true
+    "priceIsEstimate": true,
+    "promoPrice": 130
    },
    {
     "id": "fict-albanileria-reyes-s2",
@@ -1144,7 +1148,8 @@
     "durationMinutes": 240,
     "mode": "atHome",
     "includes": "Una persona durante cuatro horas para limpieza general. El cliente proporciona productos y herramientas; prioridades a acordar.",
-    "priceIsEstimate": true
+    "priceIsEstimate": true,
+    "promoPrice": 550
    },
    {
     "id": "fict-limpieza-rosa-s2",
